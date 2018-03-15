@@ -11,6 +11,8 @@ namespace TEST
         static void Main(string[] args)
         {
             // Initial Project
+            // Sau khi push len Git, sau nay co su thay doi nao thi se tien hanh commit len Git
+
         }
     }
 }
