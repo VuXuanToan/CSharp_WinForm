@@ -10,7 +10,6 @@ namespace TEST
     {
         static void Main(string[] args)
         {
-
             // Initial Project
         }
     }
